@@ -28,6 +28,8 @@ I believe in sharing ideas and progress, but I want to make sure there's somethi
 
 The project will be evaluated along the way. After assessing its progress and feasibility, I'll decide whether to continue expanding it, focus on other priorities, or release a partial version.
 
-## Stay tuned
+## Contributions
 
-More updates coming as development progresses!
+This repository is intended solely as a public presentation of the KnowledgeBase project.
+
+It is not currently open to contributions, and the source code remains private during the early development stages.
